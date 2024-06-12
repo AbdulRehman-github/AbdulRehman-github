@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulRehman-github
 - 👀 I’m interested in problem solving and learning new things
 - 🌱 I’m currently learning data structures
-- leetsync  
+- leetsync : https://github.com/AbdulRehman-github/LeetSync
 
 
 <!---
